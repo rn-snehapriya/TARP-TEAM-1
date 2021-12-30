@@ -3,8 +3,8 @@
 ## This Project is contributed by 18MIS002 R N Sneha Priya, 18MIS1017 Sandhiya S, 18MIS1090 Raksha S, 18MIS1108 Aishwariya Subakkar, 18MIS1110 Yuktha Sri. 
 
 There are a series of processes and configuration which are done for the implementation. They are,
-•	Initially, from the board menu, the board manager is selected from which the ESP8266 is being selected. From the ESP8266 we select NodeMCU 1.0.
-•	The next setting is to select the COM port. In this the COM 4 is selected from tools and then selecting the communication. 
+**Initially, from the board menu, the board manager is selected from which the ESP8266 is being selected. From the ESP8266 we select NodeMCU 1.0.
+**The next setting is to select the COM port. In this the COM 4 is selected from tools and then selecting the communication. 
 •	Then after the code is being developed in the Arduino IDE, it is then compiled to check if there are any error with respect to syntax before it can be loaded into the NodeMCU ESP8266. 
 •	In the newer versions of the NodeMCU the CH34X driver is not included. So, that has to downloaded and has to be installed on the local system on which the Arduino IDE is running.
 •	Once there are no compilations error found in the code it can now be loaded into the NodeMCU ESP8266 with the help of simple USB cable with Type-A connected to computer and Type-B connected to the NodeMCU board.
